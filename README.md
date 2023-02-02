@@ -1,3 +1,10 @@
+#Projeto de Estudos
+
+Esse é um projeto do curso de desenvolvimento WEB 2022 da CODER na plataforma da Udemy
+Criei ele para treinar e começar meus estudos em angular 
+Então... relevem se estiver com algumas coisas fora de normas hahaha
+
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
