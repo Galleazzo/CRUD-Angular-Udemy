@@ -1,4 +1,4 @@
-#Projeto de Estudos
+# Projeto de Estudos
 
 Esse é um projeto do curso de desenvolvimento WEB 2022 da CODER na plataforma da Udemy
 Criei ele para treinar e começar meus estudos em angular 
